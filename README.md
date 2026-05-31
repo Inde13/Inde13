@@ -1,27 +1,16 @@
-# 👓 Matheus Hanzoi
-## 🐍 Python lover
+# user="Matheus Hanzoi"
 
-## 🔥 Programming since 2018
+## ⏳ Programming since 2018
 
-Aiming to learn with new and fun projects
+[![My Skills](https://skillicons.dev/icons?i=py,vim,bash,cpp,js,html,css,git)](https://skillicons.dev)
 
-## 💻 My projects
+Looking to colaborate on projects and dive even more into the tech world.
 
-Besides Python, my first projects posted on github were made with HTML, CSS and some with a bit of JS.
+## \[ Main skills \]
 
-Nowadays I code mostly in Python and sometimes diversify and have fun with other languages and technologies.
+🐍 Python - Main language
+⌨️ Vim - Main editor
 
-<!--
-**Inde13/Inde13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently learning
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C++ | Bash | Vim | Git

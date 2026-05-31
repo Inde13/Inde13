@@ -8,7 +8,8 @@ Looking to colaborate on projects and dive even more into the tech world.
 
 ## \[ Main skills \]
 
-🐍 Python - Main language \n
+🐍 Python - Main language
+
 ⌨️ Vim - Main editor
 
 ## \[ Currently learning \]

@@ -8,9 +8,9 @@ Looking to colaborate on projects and dive even more into the tech world.
 
 ## \[ Main skills \]
 
-🐍 Python - Main language
+🐍 Python - Main language \n
 ⌨️ Vim - Main editor
 
-## Currently learning
+## \[ Currently learning \]
 
 C++ | Bash | Vim | Git

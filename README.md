@@ -11,6 +11,7 @@ Looking to colaborate on projects and dive even deeper into the tech world.
 ## \[ Main skills \]
 
 🐍 Python - Main language
+
 ⌨️ Vim - Main editor
 
 ## \[ Currently learning \]

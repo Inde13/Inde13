@@ -2,7 +2,7 @@
 
 ## ⏳ Programming since 2018
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,html,css,vim,bash,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,html,css,cs,vim,bash,git)](https://skillicons.dev)
 
 Started at 11yo and never stopped ever since!
 
@@ -16,4 +16,4 @@ Looking to colaborate on projects and dive even deeper into the tech world.
 
 ## \[ Currently learning \]
 
-C++ | Bash | Vim | Git
+C++ | C#
